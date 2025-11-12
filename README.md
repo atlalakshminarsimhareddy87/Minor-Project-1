@@ -1,4 +1,4 @@
-❤️ Heart Risk Prediction
+## ❤️ Heart Risk Prediction
 
 This project is designed to predict the likelihood of heart disease using **machine learning techniques**. It mainly uses two models — **LightGBM** and **Random Forest** — and compares their performance to find which one gives better and faster results. The main goal of this project is to help in the **early detection of heart disease** based on medical data such as age, gender, blood pressure, cholesterol, heart rate, and other health indicators.
 
